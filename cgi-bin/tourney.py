@@ -17,14 +17,14 @@ print
 
 params = cgi.FieldStorage()
 name = params['name'].value
-games = os.listdir('../games/' + name)
+games = os.listdir('games/' + name)
 links = '\n'.join(
     map(lambda x: '<a href="{}">{}</a><br>'.format('index.html?game_id='+x, x),
         map(lambda x: '{}/{}'.format(name, x[:-5]), 
             games)))
-html = open('tourney_template.html').read()
+html = open('cgi-bin/tourney_template.html').read()
 result = ''.join(
-    open('../tournaments/{}/result.txt'.format(name)).readlines()[-6:])
+    open('tournaments/{}/result.txt'.format(name)).readlines()[-6:])
 
 print html.format(name=name, links=links, result=result)
 

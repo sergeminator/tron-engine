@@ -19,7 +19,7 @@ params = cgi.FieldStorage()
 name = params['name'].value
 games = os.listdir('games/' + name)
 links = '\n'.join(
-    map(lambda x: '<a href="{}">{}</a><br>'.format('index.html?game_id='+x, x),
+    map(lambda x: '<a href="{}">{}</a><br>'.format('../replay/index.html?game_id='+x, x),
         map(lambda x: '{}/{}'.format(name, x[:-5]), 
             games)))
 html = open('cgi-bin/tourney_template.html').read()

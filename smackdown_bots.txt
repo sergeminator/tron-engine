@@ -1,0 +1,3 @@
+0,TestBot,bots\c\testbot.exe
+1,Wallbot,python bots\wallbot.py
+2,Randbot,python bots\randbot.py

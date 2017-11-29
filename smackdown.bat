@@ -1,0 +1,1 @@
+python engines\tournament.py -vv --replay games/smackdown smackdown_bots.txt smackdown_maps.txt

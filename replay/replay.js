@@ -244,6 +244,12 @@ function do_diff_dir(dir) {
     
     update_frame(p1dat);
     update_frame(p2dat);
+
+    if (frame == diffs.length - 1)
+    {
+        set_player_name_and_result(1, window.player1, window.winner);
+        set_player_name_and_result(2, window.player2, window.winner);
+    }
 }
 
 function set_player_name(n, _name, winner) {
@@ -251,11 +257,19 @@ function set_player_name(n, _name, winner) {
     var cell = document.getElementById('name' + n);
     _name = _name.replace('bots/', '')   // strip bots folder if present
     var text = _name;
+    cell.innerHTML = text + '&nbsp';
+}
+
+function set_player_name_and_result(n, _name, winner) {
+    // winner is '1', '2', or 'D'
+    var cell = document.getElementById('name' + n);
+    _name = _name.replace('bots/', '')   // strip bots folder if present
+    var text = _name;
     if (n == winner){
-	text += ' (winner)'
+    text += ' (winner)'
     }
     if (winner == 'D' && n == 2){
-	text += '&nbsp;&nbsp;&nbsp;(draw)'
+    text += '&nbsp;&nbsp;&nbsp;(draw)'
     }
     cell.innerHTML = text + '&nbsp';
 }
@@ -347,8 +361,8 @@ function parse_load(raw) {
     // set game name
     document.getElementById('gamename').innerHTML = "game_id '" + game_id  + "' &nbsp; : &nbsp;";
 
-    var player1 = raw[ndx++];
-    var player2 = raw[ndx++];
+    window.player1 = raw[ndx++];
+    window.player2 = raw[ndx++];
     
     var moves = raw[ndx++];
     var dir, data;
@@ -374,7 +388,7 @@ function parse_load(raw) {
         diffs[f][1] = move_dir(build_data(diffs[f - 1][1][0], diffs[f - 1][1][1], dir, diffs[f - 1][1][3]));
     }
 
-    var winner = raw[ndx++];
+    window.winner = raw[ndx++];
     set_player_name(1, player1, winner);
     set_player_name(2, player2, winner);
     

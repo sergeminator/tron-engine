@@ -1,3 +1,15 @@
-0,TestBot,bots\c\testbot.exe
-1,Wallbot,python bots\wallbot.py
-2,Randbot,python bots\randbot.py
+0,PollosHermanos,bots\PollosHermanos.exe
+1,Andertaker,bots\Andertaker.exe
+2,QBattleBot,python bots\QBattleBot.py
+3,Carlos,bots\carlos.exe
+4,JacobTron,bots\JacobTron.exe
+5,TronLightCycleAI,bots\TronLightCycleAI.exe
+
+
+
+
+
+
+
+
+

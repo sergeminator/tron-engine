@@ -1,0 +1,2065 @@
+Rows: 15 Columns: 15
+The time is: 1.51275e+09
+4 Rooms made.
+4 Hallways built.
+Finished Initialization:1
+###############
+#      #      #
+#      #      #
+#  1          #
+#      #      #
+#      #      #
+#      #      #
+### ####### ###
+#      #      #
+#      #      #
+#      #      #
+#          2  #
+#      #      #
+#      #      #
+###############
+
+###############
+#RRRRRR#RRRRRR#
+#RRRRRR#RRRRRR#
+#RRRRRRHRRRRRR#
+#RRRRRR#RRRRRR#
+#RRRRRR#RRRRRR#
+#RRRRRR#RRRRRR#
+###H#######H###
+#RRRRRR#RRRRRR#
+#RRRRRR#RRRRRR#
+#RRRRRR#RRRRRR#
+#RRRRRRHRRRRRR#
+#RRRRRR#RRRRRR#
+#RRRRRR#RRRRRR#
+###############
+The time is: 1.51275e+09
+4 Rooms made.
+4 Hallways built.
+Finished Initialization:2
+###############
+#      #      #
+#      #      #
+#  #          #
+#  1   #      #
+#      #      #
+#      #      #
+### ####### ###
+#      #      #
+#      #      #
+#      #   2  #
+#          #  #
+#      #      #
+#      #      #
+###############
+
+###############
+#RRRRRR#RRRRRR#
+#RRRRRR#RRRRRR#
+#RR#RRRHRRRRRR#
+#RRRRRR#RRRRRR#
+#RRRRRR#RRRRRR#
+#RRRRRR#RRRRRR#
+###H#######H###
+#RRRRRR#RRRRRR#
+#RRRRRR#RRRRRR#
+#RRRRRR#RRRRRR#
+#RRRRRRHRRR#RR#
+#RRRRRR#RRRRRR#
+#RRRRRR#RRRRRR#
+###############
+The time is: 1.51275e+09
+4 Rooms made.
+4 Hallways built.
+Finished Initialization:3
+###############
+#      #      #
+#      #      #
+#  #          #
+#  #   #      #
+#  1   #      #
+#      #      #
+### ####### ###
+#      #      #
+#      #   2  #
+#      #   #  #
+#          #  #
+#      #      #
+#      #      #
+###############
+
+###############
+#RRRRRR#RRRRRR#
+#RRRRRR#RRRRRR#
+#RR#RRRHRRRRRR#
+#RR#RRR#RRRRRR#
+#RRRRRR#RRRRRR#
+#RRRRRR#RRRRRR#
+###H#######H###
+#RRRRRR#RRRRRR#
+#RRRRRR#RRRRRR#
+#RRRRRR#RRR#RR#
+#RRRRRRHRRR#RR#
+#RRRRRR#RRRRRR#
+#RRRRRR#RRRRRR#
+###############
+The time is: 1.51275e+09
+4 Rooms made.
+4 Hallways built.
+Finished Initialization:4
+###############
+#      #      #
+#      #      #
+#  #          #
+#  #   #      #
+#  #   #      #
+#  1   #      #
+### ####### ###
+#      #   2  #
+#      #   #  #
+#      #   #  #
+#          #  #
+#      #      #
+#      #      #
+###############
+
+###############
+#RRRRRR#RRRRRR#
+#RRRRRR#RRRRRR#
+#RR#RRRHRRRRRR#
+#RR#RRR#RRRRRR#
+#RR#RRR#RRRRRR#
+#RRRRRR#RRRRRR#
+###H#######H###
+#RRRRRR#RRRRRR#
+#RRRRRR#RRR#RR#
+#RRRRRR#RRR#RR#
+#RRRRRRHRRR#RR#
+#RRRRRR#RRRRRR#
+#RRRRRR#RRRRRR#
+###############
+The time is: 1.51275e+09
+4 Rooms made.
+2 Hallways built.
+Finished Initialization:5
+###############
+#      #      #
+#      #      #
+#  #          #
+#  #   #      #
+#  #   #      #
+#  #   #      #
+###1#######2###
+#      #   #  #
+#      #   #  #
+#      #   #  #
+#          #  #
+#      #      #
+#      #      #
+###############
+
+###############
+#RRRRRR#RRRRRR#
+#RRRRRR#RRRRRR#
+#RR#RRRHRRRRRR#
+#RR#RRR#RRRRRR#
+#RR#RRR#RRRRRR#
+#RR#RRR#RRRRRR#
+###############
+#RRRRRR#RRR#RR#
+#RRRRRR#RRR#RR#
+#RRRRRR#RRR#RR#
+#RRRRRRHRRR#RR#
+#RRRRRR#RRRRRR#
+#RRRRRR#RRRRRR#
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.950006
+The time is: 1.51275e+09
+4 Rooms made.
+2 Hallways built.
+Finished Initialization:6
+###############
+#      #      #
+#      #      #
+#  #          #
+#  #   #      #
+#  #   #      #
+#  #   #   2  #
+###############
+#  1   #   #  #
+#      #   #  #
+#      #   #  #
+#          #  #
+#      #      #
+#      #      #
+###############
+
+###############
+#RRRRRR#RRRRRR#
+#RRRRRR#RRRRRR#
+#RR#RRRHRRRRRR#
+#RR#RRR#RRRRRR#
+#RR#RRR#RRRRRR#
+#RR#RRR#RRRRRR#
+###############
+#RRRRRR#RRR#RR#
+#RRRRRR#RRR#RR#
+#RRRRRR#RRR#RR#
+#RRRRRRHRRR#RR#
+#RRRRRR#RRRRRR#
+#RRRRRR#RRRRRR#
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.950017
+The time is: 1.51275e+09
+4 Rooms made.
+2 Hallways built.
+Finished Initialization:7
+###############
+#      #      #
+#      #      #
+#  #          #
+#  #   #      #
+#  #   #   2  #
+#  #   #   #  #
+###############
+#  #1  #   #  #
+#      #   #  #
+#      #   #  #
+#          #  #
+#      #      #
+#      #      #
+###############
+
+###############
+#RRRRRR#RRRRRR#
+#RRRRRR#RRRRRR#
+#RR#RRRHRRRRRR#
+#RR#RRR#RRRRRR#
+#RR#RRR#RRRRRR#
+#RR#RRR#RRR#RR#
+###############
+#RR#RRR#RRR#RR#
+#RRRRRR#RRR#RR#
+#RRRRRR#RRR#RR#
+#RRRRRRHRRR#RR#
+#RRRRRR#RRRRRR#
+#RRRRRR#RRRRRR#
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.950043
+The time is: 1.51275e+09
+4 Rooms made.
+3 Hallways built.
+Finished Initialization:8
+###############
+#      #      #
+#      #      #
+#  #          #
+#  #   #   2  #
+#  #   #   #  #
+#  #   #   #  #
+###############
+#  ##1 #   #  #
+#      #   #  #
+#      #   #  #
+#          #  #
+#      #      #
+#      #      #
+###############
+
+###############
+#RRRRRR#RRRRRR#
+#RRRRRR#RRRRRR#
+#RR#RRRHRRRRRR#
+#RR#RRR#RRRRRR#
+#RR#RRR#RRR#RR#
+#RR#RRR#RRR#RR#
+###############
+#RR##RH#RRR#RR#
+#RRRRRR#RRR#RR#
+#RRRRRR#RRR#RR#
+#RRRRRRHRRR#RR#
+#RRRRRR#RRRRRR#
+#RRRRRR#RRRRRR#
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.950002
+The time is: 1.51275e+09
+4 Rooms made.
+2 Hallways built.
+Finished Initialization:9
+###############
+#      #      #
+#      #      #
+#  #       2  #
+#  #   #   #  #
+#  #   #   #  #
+#  #   #   #  #
+###############
+#  ###1#   #  #
+#      #   #  #
+#      #   #  #
+#          #  #
+#      #      #
+#      #      #
+###############
+
+###############
+#RRRRRR#RRRRRR#
+#RRRRRR#RRRRRR#
+#RR#RRRHRRRRRR#
+#RR#RRR#RRR#RR#
+#RR#RRR#RRR#RR#
+#RR#RRR#RRR#RR#
+###############
+#RR#####RRR#RR#
+#RRRRRR#RRR#RR#
+#RRRRRR#RRR#RR#
+#RRRRRRHRRR#RR#
+#RRRRRR#RRRRRR#
+#RRRRRR#RRRRRR#
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.950022
+The time is: 1.51275e+09
+4 Rooms made.
+3 Hallways built.
+Finished Initialization:10
+###############
+#      #      #
+#      #   2  #
+#  #       #  #
+#  #   #   #  #
+#  #   #   #  #
+#  #   #   #  #
+###############
+#  #####   #  #
+#     1#   #  #
+#      #   #  #
+#          #  #
+#      #      #
+#      #      #
+###############
+
+###############
+#RRRRRR#RRRHRR#
+#RRRRRR#RRRRRR#
+#RR#RRRHRRR#RR#
+#RR#RRR#RRR#RR#
+#RR#RRR#RRR#RR#
+#RR#RRR#RRR#RR#
+###############
+#RR#####RRR#RR#
+#RRRRRR#RRR#RR#
+#RRRRRR#RRR#RR#
+#RRRRRRHRRR#RR#
+#RRRRRR#RRRRRR#
+#RRRRRR#RRRRRR#
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.950021
+The time is: 1.51275e+09
+5 Rooms made.
+3 Hallways built.
+Finished Initialization:11
+###############
+#      #      #
+#      #  2#  #
+#  #       #  #
+#  #   #   #  #
+#  #   #   #  #
+#  #   #   #  #
+###############
+#  #####   #  #
+#    1##   #  #
+#      #   #  #
+#          #  #
+#      #      #
+#      #      #
+###############
+
+###############
+#RRRRRR#RRHHRR#
+#RRRRRR#RRR#RR#
+#RR#RRRHRRR#RR#
+#RR#RRR#RRR#RR#
+#RR#RRR#RRR#RR#
+#RR#RRR#RRR#RR#
+###############
+#RR#####RRR#RR#
+#RRRRR##RRR#RR#
+#RRRRRR#RRR#RR#
+#RRRRRRHRRR#RR#
+#RRRRRR#RRRRRR#
+#RRRRRR#RRRRRR#
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.950017
+The time is: 1.51275e+09
+5 Rooms made.
+3 Hallways built.
+Finished Initialization:12
+###############
+#      #      #
+#      #  ##  #
+#  #      2#  #
+#  #   #   #  #
+#  #   #   #  #
+#  #   #   #  #
+###############
+#  #####   #  #
+#   1###   #  #
+#      #   #  #
+#          #  #
+#      #      #
+#      #      #
+###############
+
+###############
+#RRRRRR#RRHHRR#
+#RRRRRR#RR##RR#
+#RR#RRRHRRR#RR#
+#RR#RRR#RRR#RR#
+#RR#RRR#RRR#RR#
+#RR#RRR#RRR#RR#
+###############
+#RR#####RRR#RR#
+#RRRR###RRR#RR#
+#RRRRRR#RRR#RR#
+#RRRRRRHRRR#RR#
+#RRRRRR#RRRRRR#
+#RRRRRR#RRRRRR#
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.950001
+The time is: 1.51275e+09
+5 Rooms made.
+3 Hallways built.
+Finished Initialization:13
+###############
+#      #      #
+#      #  ##  #
+#  #      ##  #
+#  #   #  2#  #
+#  #   #   #  #
+#  #   #   #  #
+###############
+#  #####   #  #
+#  1####   #  #
+#      #   #  #
+#          #  #
+#      #      #
+#      #      #
+###############
+
+###############
+#RRRRRR#RRHHRR#
+#RRRRRR#RR##RR#
+#RR#RRRHRR##RR#
+#RR#RRR#RRR#RR#
+#RR#RRR#RRR#RR#
+#RR#RRR#RRR#RR#
+###############
+#RR#####RRR#RR#
+#RRR####RRR#RR#
+#RRRRRR#RRR#RR#
+#RRRRRRHRRR#RR#
+#RRRRRR#RRRRRR#
+#RRRRRR#RRRRRR#
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.950035
+The time is: 1.51275e+09
+5 Rooms made.
+5 Hallways built.
+Finished Initialization:14
+###############
+#      #      #
+#      #  ##  #
+#  #      ##  #
+#  #   #  ##  #
+#  #   #  2#  #
+#  #   #   #  #
+###############
+#  #####   #  #
+# 1#####   #  #
+#      #   #  #
+#          #  #
+#      #      #
+#      #      #
+###############
+
+###############
+#RRRRRR#RRHHRR#
+#RRRRRR#RR##RR#
+#RR#RRRHRR##RR#
+#RR#RRR#RR##RR#
+#RR#RRR#RRR#RR#
+#RR#RRR#RRH#RR#
+###############
+#HH#####RRR#RR#
+#HR#####RRR#RR#
+#RRRRRR#RRR#RR#
+#RRRRRRHRRR#RR#
+#RRRRRR#RRRRRR#
+#RRRRRR#RRRRRR#
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.950008
+The time is: 1.51275e+09
+5 Rooms made.
+4 Hallways built.
+Finished Initialization:15
+###############
+#      #      #
+#      #  ##  #
+#  #      ##  #
+#  #   #  ##  #
+#  #   #  ##  #
+#  #   #  2#  #
+###############
+#  #####   #  #
+#1######   #  #
+#      #   #  #
+#          #  #
+#      #      #
+#      #      #
+###############
+
+###############
+#RRRRRR#RRHHRR#
+#RRRRRR#RR##RR#
+#RR#RRRHRR##RR#
+#RR#RRR#RR##RR#
+#RR#RRR#RR##RR#
+#RR#RRR#RR##RR#
+###############
+#HH#####RRR#RR#
+########RRR#RR#
+#RRRRRR#RRR#RR#
+#RRRRRRHRRR#RR#
+#RRRRRR#RRRRRR#
+#RRRRRR#RRRRRR#
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.950001
+The time is: 1.51275e+09
+5 Rooms made.
+5 Hallways built.
+Finished Initialization:16
+###############
+#      #      #
+#      #  ##  #
+#  #      ##  #
+#  #   #  ##  #
+#  #   #  ##  #
+#  #   # 2##  #
+###############
+#  #####   #  #
+########   #  #
+#1     #   #  #
+#          #  #
+#      #      #
+#      #      #
+###############
+
+###############
+#RRRRRR#RRHHRR#
+#RRRRRR#RR##RR#
+#RR#RRRHRR##RR#
+#RR#RRR#RR##RR#
+#RR#RRR#RR##RR#
+#RR#RRR#HR##RR#
+###############
+#HH#####RRR#RR#
+########RRR#RR#
+#RRRRRR#RRR#RR#
+#RRRRRRHRRR#RR#
+#RRRRRR#RRRRRR#
+#RRRRRR#RRRRRR#
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.950032
+The time is: 1.51275e+09
+5 Rooms made.
+5 Hallways built.
+Finished Initialization:17
+###############
+#      #      #
+#      #  ##  #
+#  #      ##  #
+#  #   #  ##  #
+#  #   # 2##  #
+#  #   # ###  #
+###############
+#  #####   #  #
+########   #  #
+##1    #   #  #
+#          #  #
+#      #      #
+#      #      #
+###############
+
+###############
+#RRRRRR#RRHHRR#
+#RRRRRR#RR##RR#
+#RR#RRRHRR##RR#
+#RR#RRR#RR##RR#
+#RR#RRR#HR##RR#
+#RR#RRR#H###RR#
+###############
+#HH#####RRR#RR#
+########RRR#RR#
+##RRRRR#RRR#RR#
+#RRRRRRHRRR#RR#
+#RRRRRR#RRRRRR#
+#RRRRRR#RRRRRR#
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.950013
+The time is: 1.51275e+09
+5 Rooms made.
+5 Hallways built.
+Finished Initialization:18
+###############
+#      #      #
+#      #  ##  #
+#  #      ##  #
+#  #   # 2##  #
+#  #   # ###  #
+#  #   # ###  #
+###############
+#  #####   #  #
+########   #  #
+###1   #   #  #
+#          #  #
+#      #      #
+#      #      #
+###############
+
+###############
+#RRRRRR#RRHHRR#
+#RRRRRR#RR##RR#
+#RR#RRRHRR##RR#
+#RR#RRR#HR##RR#
+#RR#RRR#H###RR#
+#RR#RRR#H###RR#
+###############
+#HH#####RRR#RR#
+########RRR#RR#
+###RRRR#RRR#RR#
+#RRRRRRHRRR#RR#
+#RRRRRR#RRRRRR#
+#RRRRRR#RRRRRR#
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.950011
+The time is: 1.51275e+09
+5 Rooms made.
+5 Hallways built.
+Finished Initialization:19
+###############
+#      #      #
+#      #  ##  #
+#  #     2##  #
+#  #   # ###  #
+#  #   # ###  #
+#  #   # ###  #
+###############
+#  #####   #  #
+########   #  #
+####   #   #  #
+#  1       #  #
+#      #      #
+#      #      #
+###############
+
+###############
+#RRRRRR#RRHHRR#
+#RRRRRR#RR##RR#
+#RR#RRRHRR##RR#
+#RR#RRR#H###RR#
+#RR#RRR#H###RR#
+#RR#RRR#H###RR#
+###############
+#HH#####RRR#RR#
+########RRR#RR#
+####RRR#RRR#RR#
+#RRRRRRHRRR#RR#
+#RRRRRR#RRRRRR#
+#RRRRRR#RRRRRR#
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.950001
+The time is: 1.51275e+09
+5 Rooms made.
+6 Hallways built.
+Finished Initialization:20
+###############
+#      #      #
+#      # 2##  #
+#  #     ###  #
+#  #   # ###  #
+#  #   # ###  #
+#  #   # ###  #
+###############
+#  #####   #  #
+########   #  #
+####   #   #  #
+# 1#       #  #
+#      #      #
+#      #      #
+###############
+
+###############
+#RRRRRR#HHHHRR#
+#RRRRRR#HR##RR#
+#RR#RRRHI###RR#
+#RR#RRR#H###RR#
+#RR#RRR#H###RR#
+#RR#RRR#H###RR#
+###############
+#HH#####RRR#RR#
+########RRR#RR#
+####RRR#RRR#RR#
+#HR#RRRHRRR#RR#
+#RRRRRR#RRRRRR#
+#RRRRRR#RRRRRR#
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.950001
+The time is: 1.51275e+09
+4 Rooms made.
+6 Hallways built.
+Finished Initialization:21
+###############
+#      # 2    #
+#      # ###  #
+#  #     ###  #
+#  #   # ###  #
+#  #   # ###  #
+#  #   # ###  #
+###############
+#  #####   #  #
+########   #  #
+####   #   #  #
+#1##       #  #
+#      #      #
+#      #      #
+###############
+
+###############
+#RRRRRR#H#HHRR#
+#RRRRRR#H###RR#
+#RR#RRRHI###RR#
+#RR#RRR#H###RR#
+#RR#RRR#H###RR#
+#RR#RRR#H###RR#
+###############
+#HH#####RRR#RR#
+########RRR#RR#
+####RRR#RRR#RR#
+####RRRHRRR#RR#
+#RRRRRR#RRRRRR#
+#RRRRRR#RRRRRR#
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.950005
+The time is: 1.51275e+09
+4 Rooms made.
+7 Hallways built.
+Finished Initialization:22
+###############
+#      #2#    #
+#      # ###  #
+#  #     ###  #
+#  #   # ###  #
+#  #   # ###  #
+#  #   # ###  #
+###############
+#  #####   #  #
+########   #  #
+####   #   #  #
+####       #  #
+#1     #      #
+#      #      #
+###############
+
+###############
+#RRRRRR###HHRR#
+#RRRRRR#H###RR#
+#RR#RRRHI###RR#
+#RR#RRR#H###RR#
+#RR#RRR#H###RR#
+#RR#RRR#H###RR#
+###############
+#HH#####RRR#RR#
+########RRR#RR#
+####RRR#RRR#RR#
+####RRRHRRR#RR#
+#RRRRRR#RRRRRR#
+#HRRRRR#RRRRRR#
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.95002
+The time is: 1.51275e+09
+4 Rooms made.
+5 Hallways built.
+Finished Initialization:23
+###############
+#      ###    #
+#      #2###  #
+#  #     ###  #
+#  #   # ###  #
+#  #   # ###  #
+#  #   # ###  #
+###############
+#  #####   #  #
+########   #  #
+####   #   #  #
+####       #  #
+##1    #      #
+#      #      #
+###############
+
+###############
+#RRRRRR###HHRR#
+#RRRRRR#####RR#
+#RR#RRRHH###RR#
+#RR#RRR#H###RR#
+#RR#RRR#H###RR#
+#RR#RRR#H###RR#
+###############
+#HH#####RRR#RR#
+########RRR#RR#
+####RRR#RRR#RR#
+####RRRHRRR#RR#
+##RRRRR#RRRRRR#
+#HHRRRR#RRRRRR#
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.950004
+The time is: 1.51275e+09
+4 Rooms made.
+6 Hallways built.
+Finished Initialization:24
+###############
+#      ###    #
+#      #####  #
+#  #    2###  #
+#  #   # ###  #
+#  #   # ###  #
+#  #   # ###  #
+###############
+#  #####   #  #
+########   #  #
+####   #   #  #
+####       #  #
+###    #      #
+# 1    #      #
+###############
+
+###############
+#RRRRRR###HHRR#
+#RRRRRR#####RR#
+#RR#RRRH####RR#
+#RR#RRR#H###RR#
+#RR#RRR#H###RR#
+#RR#RRR#H###RR#
+###############
+#HH#####RRR#RR#
+########RRR#RR#
+####RRR#RRR#RR#
+####RRRHRRR#RR#
+###RRRR#RRRRRR#
+#H#RRRR#RRRRRR#
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.950009
+The time is: 1.51275e+09
+4 Rooms made.
+6 Hallways built.
+Finished Initialization:25
+###############
+#      ###    #
+#      #####  #
+#  #   2####  #
+#  #   # ###  #
+#  #   # ###  #
+#  #   # ###  #
+###############
+#  #####   #  #
+########   #  #
+####   #   #  #
+####       #  #
+###    #      #
+# #1   #      #
+###############
+
+###############
+#RRRRRR###HHRR#
+#RRRRRR#####RR#
+#RR#RRR#####RR#
+#RR#RRR#H###RR#
+#RR#RRR#H###RR#
+#RR#RRR#H###RR#
+###############
+#HH#####RRR#RR#
+########RRR#RR#
+####RRR#RRR#RR#
+####RRRHRRR#RR#
+###HRRR#RRRRRR#
+#H#RRRR#RRRRRR#
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.950002
+The time is: 1.51275e+09
+4 Rooms made.
+5 Hallways built.
+Finished Initialization:26
+###############
+#      ###    #
+#      #####  #
+#  #  2#####  #
+#  #   # ###  #
+#  #   # ###  #
+#  #   # ###  #
+###############
+#  #####   #  #
+########   #  #
+####   #   #  #
+####       #  #
+###1   #      #
+# ##   #      #
+###############
+
+###############
+#RRRRRR###HHRR#
+#RRRRRR#####RR#
+#RR#RRR#####RR#
+#RR#RRR#H###RR#
+#RR#RRR#H###RR#
+#RR#RRR#H###RR#
+###############
+#HH#####RRR#RR#
+########RRR#RR#
+####RRR#RRR#RR#
+####RRRHRRR#RR#
+####RRR#RRRRRR#
+#H##RRR#RRRRRR#
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.950028
+The time is: 1.51275e+09
+4 Rooms made.
+7 Hallways built.
+Finished Initialization:27
+###############
+#      ###    #
+#     2#####  #
+#  #  ######  #
+#  #   # ###  #
+#  #   # ###  #
+#  #   # ###  #
+###############
+#  #####   #  #
+########   #  #
+####   #   #  #
+####       #  #
+####1  #      #
+# ##   #      #
+###############
+
+###############
+#RRRRRH###HHRR#
+#RRRRRR#####RR#
+#RR#RR######RR#
+#RR#RRR#H###RR#
+#RR#RRR#H###RR#
+#RR#RRR#H###RR#
+###############
+#HH#####RRR#RR#
+########RRR#RR#
+####RRR#RRR#RR#
+####RRRHRRR#RR#
+####RRR#RRRRRR#
+#H##HRR#RRRRRR#
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.950023
+The time is: 1.51275e+09
+4 Rooms made.
+5 Hallways built.
+Finished Initialization:28
+###############
+#     2###    #
+#     ######  #
+#  #  ######  #
+#  #   # ###  #
+#  #   # ###  #
+#  #   # ###  #
+###############
+#  #####   #  #
+########   #  #
+####   #   #  #
+####       #  #
+#####  #      #
+# ##1  #      #
+###############
+
+###############
+#RRRRR####HHRR#
+#RRRRR######RR#
+#RR#RR######RR#
+#RR#RRR#H###RR#
+#RR#RRR#H###RR#
+#RR#RRR#H###RR#
+###############
+#HH#####RRR#RR#
+########RRR#RR#
+####RRR#RRR#RR#
+####RRRHRRR#RR#
+#####RR#RRRRRR#
+#H###RR#RRRRRR#
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.950005
+The time is: 1.51275e+09
+4 Rooms made.
+6 Hallways built.
+Finished Initialization:29
+###############
+#    2####    #
+#     ######  #
+#  #  ######  #
+#  #   # ###  #
+#  #   # ###  #
+#  #   # ###  #
+###############
+#  #####   #  #
+########   #  #
+####   #   #  #
+####       #  #
+#####  #      #
+# ###1 #      #
+###############
+
+###############
+#RRRRR####HHRR#
+#RRRRR######RR#
+#RR#RR######RR#
+#RR#RRR#H###RR#
+#RR#RRR#H###RR#
+#RR#RRR#H###RR#
+###############
+#HH#####RRR#RR#
+########RRR#RR#
+####RRR#RRR#RR#
+####RRRHRRR#RR#
+#####RR#RRRRRR#
+#H###RH#RRRRRR#
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.950004
+The time is: 1.51275e+09
+4 Rooms made.
+5 Hallways built.
+Finished Initialization:30
+###############
+#    #####    #
+#    2######  #
+#  #  ######  #
+#  #   # ###  #
+#  #   # ###  #
+#  #   # ###  #
+###############
+#  #####   #  #
+########   #  #
+####   #   #  #
+####       #  #
+#####  #      #
+# ####1#      #
+###############
+
+###############
+#RRRR#####HHRR#
+#RRRRR######RR#
+#RR#RR######RR#
+#RR#RRR#H###RR#
+#RR#RRR#H###RR#
+#RR#RRR#H###RR#
+###############
+#HH#####RRR#RR#
+########RRR#RR#
+####RRR#RRR#RR#
+####RRRHRRR#RR#
+#####RR#RRRRRR#
+#H######RRRRRR#
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.950023
+The time is: 1.51275e+09
+5 Rooms made.
+7 Hallways built.
+Finished Initialization:31
+###############
+#    #####    #
+#    #######  #
+#  # 2######  #
+#  #   # ###  #
+#  #   # ###  #
+#  #   # ###  #
+###############
+#  #####   #  #
+########   #  #
+####   #   #  #
+####       #  #
+##### 1#      #
+# ######      #
+###############
+
+###############
+#RRRR#####HHRR#
+#RRRR#######RR#
+#RR#HR######RR#
+#RR#RRR#H###RR#
+#RR#RRR#H###RR#
+#RR#RRR#H###RR#
+###############
+#HH#####RRR#RR#
+########RRR#RR#
+####RRR#RRR#RR#
+####RRRHRRR#RR#
+#####HR#RRRRRR#
+#H######RRRRRR#
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.950013
+The time is: 1.51275e+09
+5 Rooms made.
+7 Hallways built.
+Finished Initialization:32
+###############
+#    #####    #
+#    #######  #
+#  # #######  #
+#  # 2 # ###  #
+#  #   # ###  #
+#  #   # ###  #
+###############
+#  #####   #  #
+########   #  #
+####   #   #  #
+####       #  #
+#####1##      #
+# ######      #
+###############
+
+###############
+#RRRR#####HHRR#
+#RRRR#######RR#
+#RR#H#######RR#
+#RR#HRH#H###RR#
+#RR#RRR#H###RR#
+#RR#RRR#H###RR#
+###############
+#HH#####RRR#RR#
+########RRR#RR#
+####RRR#RRR#RR#
+####RRRHRRR#RR#
+########RRRRRR#
+#H######RRRRRR#
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.950011
+The time is: 1.51275e+09
+4 Rooms made.
+7 Hallways built.
+Finished Initialization:33
+###############
+#    #####    #
+#    #######  #
+#  # #######  #
+#  # # # ###  #
+#  # 2 # ###  #
+#  #   # ###  #
+###############
+#  #####   #  #
+########   #  #
+####   #   #  #
+#### 1     #  #
+########      #
+# ######      #
+###############
+
+###############
+#RRRR#####HHRR#
+#RRRR#######RR#
+#RR#H#######RR#
+#RR#H#H#H###RR#
+#RR#HIH#H###RR#
+#RR#HHH#H###RR#
+###############
+#HH#####RRR#RR#
+########RRR#RR#
+####HHR#RRR#RR#
+####HRRHRRR#RR#
+########RRRRRR#
+#H######RRRRRR#
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.950055
+The time is: 1.51275e+09
+4 Rooms made.
+8 Hallways built.
+Finished Initialization:34
+###############
+#    #####    #
+#    #######  #
+#  # #######  #
+#  # # # ###  #
+#  # #2# ###  #
+#  #   # ###  #
+###############
+#  #####   #  #
+########   #  #
+####   #   #  #
+####1#     #  #
+########      #
+# ######      #
+###############
+
+###############
+#RRRR#####HHRR#
+#RRRR#######RR#
+#RR#H#######RR#
+#RR#H#H#H###RR#
+#RR#H###H###RR#
+#RR#HHH#H###RR#
+###############
+#HH#####RRR#RR#
+########RRR#RR#
+####HHR#RRR#RR#
+######RHRRR#RR#
+########RRRRRR#
+#H######RRRRRR#
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.950008
+The time is: 1.51275e+09
+4 Rooms made.
+8 Hallways built.
+Finished Initialization:35
+###############
+#    #####    #
+#    #######  #
+#  # #######  #
+#  # # # ###  #
+#  # ### ###  #
+#  #  2# ###  #
+###############
+#  #####   #  #
+########   #  #
+####1  #   #  #
+######     #  #
+########      #
+# ######      #
+###############
+
+###############
+#RRRR#####HHRR#
+#RRRR#######RR#
+#RR#H#######RR#
+#RR#H#H#H###RR#
+#RR#H###H###RR#
+#RR#HH##H###RR#
+###############
+#HH#####RRR#RR#
+########RRR#RR#
+#####HR#RRR#RR#
+######RHRRR#RR#
+########RRRRRR#
+#H######RRRRRR#
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.950029
+The time is: 1.51275e+09
+3 Rooms made.
+7 Hallways built.
+Finished Initialization:36
+###############
+#    #####    #
+#    #######  #
+#  # #######  #
+#  # # # ###  #
+#  # ### ###  #
+#  # 2## ###  #
+###############
+#  #####   #  #
+########   #  #
+#####1 #   #  #
+######     #  #
+########      #
+# ######      #
+###############
+
+###############
+#RRRR#####HHRR#
+#RRRR#######RR#
+#RR#H#######RR#
+#RR#H#H#H###RR#
+#RR#H###H###RR#
+#RR#H###H###RR#
+###############
+#HH#####RRR#RR#
+########RRR#RR#
+######H#RRR#RR#
+######HHRRR#RR#
+########RRRRRR#
+#H######RRRRRR#
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.950001
+The time is: 1.51275e+09
+3 Rooms made.
+7 Hallways built.
+Finished Initialization:37
+###############
+#    #####    #
+#    #######  #
+#  # #######  #
+#  # # # ###  #
+#  # ### ###  #
+#  #2### ###  #
+###############
+#  #####   #  #
+########   #  #
+######1#   #  #
+######     #  #
+########      #
+# ######      #
+###############
+
+###############
+#RRRR#####HHRR#
+#RRRR#######RR#
+#RR#H#######RR#
+#RR#H#H#H###RR#
+#RR#H###H###RR#
+#RR#####H###RR#
+###############
+#HH#####RRR#RR#
+########RRR#RR#
+########RRR#RR#
+######HHRRR#RR#
+########RRRRRR#
+#H######RRRRRR#
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.950016
+The time is: 1.51275e+09
+3 Rooms made.
+7 Hallways built.
+Finished Initialization:38
+###############
+#    #####    #
+#    #######  #
+#  # #######  #
+#  # # # ###  #
+#  #2### ###  #
+#  ##### ###  #
+###############
+#  #####   #  #
+########   #  #
+########   #  #
+######1    #  #
+########      #
+# ######      #
+###############
+
+###############
+#RRRR#####HHRR#
+#RRRR#######RR#
+#RR#H#######RR#
+#RR#H#H#H###RR#
+#RR#####H###RR#
+#RR#####H###RR#
+###############
+#HH#####RRR#RR#
+########RRR#RR#
+########RRR#RR#
+#######HRRR#RR#
+########RRRRRR#
+#H######RRRRRR#
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.950006
+The time is: 1.51275e+09
+3 Rooms made.
+6 Hallways built.
+Finished Initialization:39
+###############
+#    #####    #
+#    #######  #
+#  # #######  #
+#  #2# # ###  #
+#  ##### ###  #
+#  ##### ###  #
+###############
+#  #####   #  #
+########   #  #
+########   #  #
+#######1   #  #
+########      #
+# ######      #
+###############
+
+###############
+#RRRR#####HHRR#
+#RRRR#######RR#
+#RR#H#######RR#
+#RR###H#H###RR#
+#RR#####H###RR#
+#RR#####H###RR#
+###############
+#HH#####RRR#RR#
+########RRR#RR#
+########RRR#RR#
+########RRR#RR#
+########RRRRRR#
+#H######RRRRRR#
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.950009
+The time is: 1.51275e+09
+3 Rooms made.
+5 Hallways built.
+Finished Initialization:40
+###############
+#    #####    #
+#    #######  #
+#  #2#######  #
+#  ### # ###  #
+#  ##### ###  #
+#  ##### ###  #
+###############
+#  #####   #  #
+########   #  #
+########   #  #
+########1  #  #
+########      #
+# ######      #
+###############
+
+###############
+#RRRR#####HHRR#
+#RRRR#######RR#
+#RR#########RR#
+#RR###H#H###RR#
+#RR#####H###RR#
+#RR#####H###RR#
+###############
+#HH#####RRR#RR#
+########RRR#RR#
+########RRR#RR#
+########RRR#RR#
+########RRRRRR#
+#H######RRRRRR#
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.950046
+The time is: 1.51275e+09
+3 Rooms made.
+7 Hallways built.
+Finished Initialization:41
+###############
+#    #####    #
+#   2#######  #
+#  #########  #
+#  ### # ###  #
+#  ##### ###  #
+#  ##### ###  #
+###############
+#  #####   #  #
+########   #  #
+########   #  #
+#########1 #  #
+########      #
+# ######      #
+###############
+
+###############
+#RRRH#####HHRR#
+#RRRR#######RR#
+#RR#########RR#
+#RR###H#H###RR#
+#RR#####H###RR#
+#RR#####H###RR#
+###############
+#HH#####RRR#RR#
+########RRR#RR#
+########RRR#RR#
+#########RH#RR#
+########RRRRRR#
+#H######RRRRRR#
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.950021
+The time is: 1.51275e+09
+4 Rooms made.
+7 Hallways built.
+Finished Initialization:42
+###############
+#   2#####    #
+#   ########  #
+#  #########  #
+#  ### # ###  #
+#  ##### ###  #
+#  ##### ###  #
+###############
+#  #####   #  #
+########   #  #
+########   #  #
+########## #  #
+######## 1    #
+# ######      #
+###############
+
+###############
+#RRR######HHRR#
+#RRR########RR#
+#RR#########RR#
+#RR###H#H###RR#
+#RR#####H###RR#
+#RR#####H###RR#
+###############
+#HH#####RRR#RR#
+########RRR#RR#
+########RRR#RR#
+##########H#RR#
+########HRRRRR#
+#H######HHRRRR#
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.95001
+The time is: 1.51275e+09
+4 Rooms made.
+8 Hallways built.
+Finished Initialization:43
+###############
+#  2######    #
+#   ########  #
+#  #########  #
+#  ### # ###  #
+#  ##### ###  #
+#  ##### ###  #
+###############
+#  #####   #  #
+########   #  #
+########   #  #
+########## #  #
+########1#    #
+# ######      #
+###############
+
+###############
+#RRR######HHRR#
+#RRH########RR#
+#RR#########RR#
+#RR###H#H###RR#
+#RR#####H###RR#
+#RR#####H###RR#
+###############
+#HH#####RRR#RR#
+########RRR#RR#
+########RRR#RR#
+##########H#RR#
+##########RRRR#
+#H######HHRRRR#
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.950006
+The time is: 1.51275e+09
+4 Rooms made.
+7 Hallways built.
+Finished Initialization:44
+###############
+#  #######    #
+#  2########  #
+#  #########  #
+#  ### # ###  #
+#  ##### ###  #
+#  ##### ###  #
+###############
+#  #####   #  #
+########   #  #
+########   #  #
+########## #  #
+##########    #
+# ######1     #
+###############
+
+###############
+#RR#######HHRR#
+#RR#########RR#
+#RR#########RR#
+#RR###H#H###RR#
+#RR#####H###RR#
+#RR#####H###RR#
+###############
+#HH#####RRR#RR#
+########RRR#RR#
+########RRR#RR#
+##########H#RR#
+##########RRRR#
+#H#######HRRRR#
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.950012
+The time is: 1.51275e+09
+4 Rooms made.
+7 Hallways built.
+Finished Initialization:45
+###############
+#  #######    #
+# 2#########  #
+#  #########  #
+#  ### # ###  #
+#  ##### ###  #
+#  ##### ###  #
+###############
+#  #####   #  #
+########   #  #
+########   #  #
+########## #  #
+##########    #
+# #######1    #
+###############
+
+###############
+#HH#######HHRR#
+#HR#########RR#
+#RR#########RR#
+#RR###H#H###RR#
+#RR#####H###RR#
+#RR#####H###RR#
+###############
+#HH#####RRR#RR#
+########RRR#RR#
+########RRR#RR#
+##########H#RR#
+##########RRRR#
+#H########RRRR#
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.950003
+The time is: 1.51275e+09
+4 Rooms made.
+7 Hallways built.
+Finished Initialization:46
+###############
+# 2#######    #
+# ##########  #
+#  #########  #
+#  ### # ###  #
+#  ##### ###  #
+#  ##### ###  #
+###############
+#  #####   #  #
+########   #  #
+########   #  #
+########## #  #
+##########    #
+# ########1   #
+###############
+
+###############
+#H########HHRR#
+#H##########RR#
+#RR#########RR#
+#RR###H#H###RR#
+#RR#####H###RR#
+#RR#####H###RR#
+###############
+#HH#####RRR#RR#
+########RRR#RR#
+########RRR#RR#
+##########H#RR#
+##########RRRR#
+#H########RRRR#
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.950003
+The time is: 1.51275e+09
+4 Rooms made.
+7 Hallways built.
+Finished Initialization:47
+###############
+#2########    #
+# ##########  #
+#  #########  #
+#  ### # ###  #
+#  ##### ###  #
+#  ##### ###  #
+###############
+#  #####   #  #
+########   #  #
+########   #  #
+########## #  #
+##########    #
+# #########1  #
+###############
+
+###############
+##########HHRR#
+#H##########RR#
+#RR#########RR#
+#RR###H#H###RR#
+#RR#####H###RR#
+#RR#####H###RR#
+###############
+#HH#####RRR#RR#
+########RRR#RR#
+########RRR#RR#
+##########H#RR#
+##########HHRR#
+#H#########RRR#
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.95005
+The time is: 1.51275e+09
+4 Rooms made.
+7 Hallways built.
+Finished Initialization:48
+###############
+##########    #
+#2##########  #
+#  #########  #
+#  ### # ###  #
+#  ##### ###  #
+#  ##### ###  #
+###############
+#  #####   #  #
+########   #  #
+########   #  #
+########## #  #
+##########    #
+# ##########1 #
+###############
+
+###############
+##########HHRR#
+############RR#
+#RR#########RR#
+#RR###H#H###RR#
+#RR#####H###RR#
+#RR#####H###RR#
+###############
+#HH#####RRR#RR#
+########RRR#RR#
+########RRR#RR#
+##########H#RR#
+##########HHRR#
+#H##########RH#
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.950007
+The time is: 1.51275e+09
+4 Rooms made.
+7 Hallways built.
+Finished Initialization:49
+###############
+##########    #
+############  #
+#2 #########  #
+#  ### # ###  #
+#  ##### ###  #
+#  ##### ###  #
+###############
+#  #####   #  #
+########   #  #
+########   #  #
+########## #  #
+##########    #
+# ###########1#
+###############
+
+###############
+##########HHRR#
+############RR#
+#RH#########RR#
+#RR###H#H###RR#
+#RR#####H###RR#
+#RR#####H###RR#
+###############
+#HH#####RRR#RR#
+########RRR#RR#
+########RRR#RR#
+##########H#RR#
+##########HHRR#
+#H#############
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.950001
+The time is: 1.51275e+09
+4 Rooms made.
+7 Hallways built.
+Finished Initialization:50
+###############
+##########    #
+############  #
+## #########  #
+#2 ### # ###  #
+#  ##### ###  #
+#  ##### ###  #
+###############
+#  #####   #  #
+########   #  #
+########   #  #
+########## #  #
+##########   1#
+# #############
+###############
+
+###############
+##########HHRR#
+############RR#
+##H#########RR#
+#RH###H#H###RR#
+#RR#####H###RR#
+#RR#####H###RR#
+###############
+#HH#####RRR#RR#
+########RRR#RR#
+########RRR#RR#
+##########H#RR#
+##########HHRR#
+#H#############
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.950005
+The time is: 1.51275e+09
+4 Rooms made.
+7 Hallways built.
+Finished Initialization:51
+###############
+##########    #
+############  #
+## #########  #
+## ### # ###  #
+#2 ##### ###  #
+#  ##### ###  #
+###############
+#  #####   #  #
+########   #  #
+########   #  #
+########## # 1#
+##########   ##
+# #############
+###############
+
+###############
+##########HHRR#
+############RR#
+##H#########RR#
+##H###H#H###RR#
+#RH#####H###RR#
+#HH#####H###RR#
+###############
+#HH#####RRR#RR#
+########RRR#RR#
+########RRR#RR#
+##########H#HR#
+##########HHH##
+#H#############
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.950005
+The time is: 1.51275e+09
+3 Rooms made.
+7 Hallways built.
+Finished Initialization:52
+###############
+##########    #
+############  #
+## #########  #
+## ### # ###  #
+## ##### ###  #
+#2 ##### ###  #
+###############
+#  #####   #  #
+########   #  #
+########   # 1#
+########## # ##
+##########   ##
+# #############
+###############
+
+###############
+##########HHRR#
+############RR#
+##H#########RR#
+##H###H#H###RR#
+##H#####H###RR#
+##H#####H###RR#
+###############
+#HH#####RRR#RR#
+########RRR#RR#
+########RRR#HR#
+##########H#H##
+##########HHH##
+#H#############
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.950041
+The time is: 1.51275e+09
+3 Rooms made.
+7 Hallways built.
+Finished Initialization:53
+###############
+##########    #
+############  #
+## #########  #
+## ### # ###  #
+## ##### ###  #
+##2##### ###  #
+###############
+#  #####   #  #
+########   # 1#
+########   # ##
+########## # ##
+##########   ##
+# #############
+###############
+
+###############
+##########HHRR#
+############RR#
+##H#########RR#
+##H###H#H###RR#
+##H#####H###RR#
+########H###RR#
+###############
+#HH#####RRR#HH#
+########RRR#HR#
+########RRR#H##
+##########H#H##
+##########HHH##
+#H#############
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.950018
+The time is: 1.51275e+09
+2 Rooms made.
+7 Hallways built.
+Finished Initialization:54
+###############
+##########    #
+############  #
+## #########  #
+## ### # ###  #
+##2##### ###  #
+######## ###  #
+###############
+#  #####   # 1#
+########   # ##
+########   # ##
+########## # ##
+##########   ##
+# #############
+###############
+
+###############
+##########HHRR#
+############RR#
+##H#########RR#
+##H###H#H###RR#
+########H###RR#
+########H###RR#
+###############
+#HH#####RRR#H##
+########RRR#H##
+########RRR#H##
+##########H#H##
+##########HHH##
+#H#############
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.950013
+The time is: 1.51275e+09
+2 Rooms made.
+7 Hallways built.
+Finished Initialization:55
+###############
+##########    #
+############  #
+## #########  #
+##2### # ###  #
+######## ###  #
+######## ###  #
+###############
+#  #####   #1##
+########   # ##
+########   # ##
+########## # ##
+##########   ##
+# #############
+###############
+
+###############
+##########HHRR#
+############RR#
+##H#########RR#
+######H#H###RR#
+########H###RR#
+########H###RR#
+###############
+#HH#####RRR####
+########RRR#H##
+########RRR#H##
+##########H#H##
+##########HHH##
+#H#############
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.950007
+The time is: 1.51275e+09
+2 Rooms made.
+6 Hallways built.
+Finished Initialization:56
+###############
+##########    #
+############  #
+##2#########  #
+###### # ###  #
+######## ###  #
+######## ###  #
+###############
+#  #####   ####
+########   #1##
+########   # ##
+########## # ##
+##########   ##
+# #############
+###############
+
+###############
+##########HHRR#
+############RR#
+############RR#
+######H#H###RR#
+########H###RR#
+########H###RR#
+###############
+#HH#####RRR####
+########RRR####
+########RRR#H##
+##########H#H##
+##########HHH##
+#H#############
+###############
+Current Time: 1.51275e+09
+Diff from start to large, force break: 0.950007

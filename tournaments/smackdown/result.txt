@@ -1,0 +1,562 @@
+Warning: System does not support alarm(); timeouts will not be strictly enforced.
+player2 crashed:
+bot 2 Carlos failed: Time limit exceeded.
+------ Carlos stderr ------
+###############
+#      #      #
+#      #      #
+#  T          #
+#      #      #
+#      #      #
+#      #      #
+### ####### ###
+#      #      #
+#      #      #
+#      #      #
+#          U  #
+#      #      #
+#      #      #
+###############
+us: {11,11}
+them: {3,3}
+updated 3380 times before timeout
+Move	Visits	Estimated
+{11,10}	  1261	1.01507
+{12,11}	   626	0.964856
+{11,12}	  1018	1
+{10,11}	   475	0.941053
+###############
+#      #      #
+#      #      #
+#  #          #
+#  T   #      #
+#      #      #
+#      #      #
+### ####### ###
+#      #      #
+#      #      #
+#      #   U  #
+#          #  #
+#      #      #
+#      #      #
+###############
+us: {11,10}
+them: {3,4}
+updated 4884 times before timeout
+Move	Visits	Estimated
+{11,9}	  1549	1.00452
+{12,10}	  2206	0.988214
+{10,10}	  1129	0.953056
+###############
+#      #      #
+#      #      #
+#  #          #
+#  #   #      #
+#  T   #      #
+#      #      #
+### ####### ###
+#      #      #
+#      #      #
+#      #   #U #
+#          #  #
+#      #      #
+#      #      #
+###############
+us: {12,10}
+them: {3,5}
+updated 6001 times before timeout
+Move	Visits	Estimated
+{12,9}	  1097	0.890611
+{13,10}	  2421	0.931846
+{12,11}	  2483	0.977447
+###############
+#      #      #
+#      #      #
+#  #          #
+#  #   #      #
+#  #T  #      #
+#      #      #
+### ####### ###
+#      #      #
+#      #      #
+#      #   ## #
+#          #U #
+#      #      #
+#      #      #
+###############
+us: {12,11}
+them: {4,5}
+updated 5474 times before timeout
+Move	Visits	Estimated
+{13,11}	   706	0.985836
+{12,12}	  4768	1.08305
+###############
+#      #      #
+#      #      #
+#  #          #
+#  #   #      #
+#  ##T #      #
+#      #      #
+### ####### ###
+#      #      #
+#      #      #
+#      #   ## #
+#          ## #
+#      #    U #
+#      #      #
+###############
+us: {12,12}
+them: {5,5}
+updated 6264 times before timeout
+Move	Visits	Estimated
+{13,12}	   521	0.965451
+{12,13}	   555	0.971171
+{11,12}	  5188	1.09156
+###############
+#      #      #
+#      #      #
+#  #          #
+#  #   #      #
+#  ### #      #
+#    T #      #
+### ####### ###
+#      #      #
+#      #      #
+#      #   ## #
+#          ## #
+#      #   U# #
+#      #      #
+###############
+us: {11,12}
+them: {5,6}
+updated 6713 times before timeout
+Move	Visits	Estimated
+{11,13}	   586	1.01195
+{10,12}	  6127	1.16909
+###############
+#      #      #
+#      #      #
+#  #          #
+#  #   #      #
+#  ### #      #
+#   T# #      #
+### ####### ###
+#      #      #
+#      #      #
+#      #   ## #
+#          ## #
+#      #  U## #
+#      #      #
+###############
+us: {10,12}
+them: {4,6}
+updated 7210 times before timeout
+Move	Visits	Estimated
+{10,11}	  1420	1.08873
+{10,13}	   228	0.903509
+{9,12}	  5562	1.12675
+###############
+#      #      #
+#      #      #
+#  #          #
+#  #   #      #
+#  ### #      #
+#  T## #      #
+### ####### ###
+#      #      #
+#      #      #
+#      #   ## #
+#          ## #
+#      # U### #
+#      #      #
+###############
+us: {9,12}
+them: {3,6}
+updated 6786 times before timeout
+Move	Visits	Estimated
+{9,11}	  3209	1.14428
+{9,13}	  1000	1.052
+{8,12}	  2577	1.10206
+###############
+#      #      #
+#      #      #
+#  #          #
+#  #   #      #
+#  ### #      #
+# T### #      #
+### ####### ###
+#      #      #
+#      #      #
+#      #   ## #
+#        U ## #
+#      # #### #
+#      #      #
+###############
+us: {9,11}
+them: {2,6}
+updated 8658 times before timeout
+Move	Visits	Estimated
+{9,10}	   141	1.31915
+{10,11}	  8278	1.6713
+{8,11}	   239	1.39749
+###############
+#      #      #
+#      #      #
+#  #          #
+#  #   #      #
+# T### #      #
+# #### #      #
+### ####### ###
+#      #      #
+#      #      #
+#      #   ## #
+#        #U## #
+#      # #### #
+#      #      #
+###############
+us: {10,11}
+them: {2,5}
+updated 9489 times before timeout
+Move	Visits	Estimated
+{10,10}	  9489	1.69017
+###############
+#      #      #
+#      #      #
+#  #          #
+# T#   #      #
+# #### #      #
+# #### #      #
+### ####### ###
+#      #      #
+#      #      #
+#      #  U## #
+#        #### #
+#      # #### #
+#      #      #
+###############
+us: {10,10}
+them: {2,4}
+updated 9535 times before timeout
+Move	Visits	Estimated
+{10,9}	  2532	1.61532
+{9,10}	  7003	1.65243
+###############
+#      #      #
+#      #      #
+# T#          #
+# ##   #      #
+# #### #      #
+# #### #      #
+### ####### ###
+#      #      #
+#      #      #
+#      # U### #
+#        #### #
+#      # #### #
+#      #      #
+###############
+us: {9,10}
+them: {2,3}
+updated 9598 times before timeout
+Move	Visits	Estimated
+{9,9}	  8477	1.58275
+{8,10}	  1121	1.50134
+###############
+#      #      #
+# T    #      #
+# ##          #
+# ##   #      #
+# #### #      #
+# #### #      #
+### ####### ###
+#      #      #
+#      # U    #
+#      # #### #
+#        #### #
+#      # #### #
+#      #      #
+###############
+us: {9,9}
+them: {2,2}
+updated 8786 times before timeout
+Move	Visits	Estimated
+{9,8}	  1568	1.49745
+{10,9}	  5592	1.5127
+{8,9}	  1626	1.46433
+###############
+#      #      #
+# #T   #      #
+# ##          #
+# ##   #      #
+# #### #      #
+# #### #      #
+### ####### ###
+#      #      #
+#      # #U   #
+#      # #### #
+#        #### #
+#      # #### #
+#      #      #
+###############
+us: {10,9}
+them: {3,2}
+updated 9488 times before timeout
+Move	Visits	Estimated
+{10,8}	  4700	1.38574
+{11,9}	  4788	1.29825
+###############
+#      #      #
+# ##T  #      #
+# ##          #
+# ##   #      #
+# #### #      #
+# #### #      #
+### ####### ###
+#      #      #
+#      # ##U  #
+#      # #### #
+#        #### #
+#      # #### #
+#      #      #
+###############
+us: {11,9}
+them: {4,2}
+updated 7625 times before timeout
+Move	Visits	Estimated
+{11,8}	  4530	1.16093
+{12,9}	  3095	1.14669
+###############
+#      #      #
+# ###  #      #
+# ##T         #
+# ##   #      #
+# #### #      #
+# #### #      #
+### ####### ###
+#      #   U  #
+#      # ###  #
+#      # #### #
+#        #### #
+#      # #### #
+#      #      #
+###############
+us: {11,8}
+them: {4,3}
+updated 13629 times before timeout
+Move	Visits	Estimated
+{11,7}	 12175	1.44879
+{12,8}	   716	1.06285
+{10,8}	   738	1.06504
+###############
+#      #      #
+# ###  #      #
+# ###T        #
+# ##   #      #
+# #### #      #
+# #### #      #
+### #######U###
+#      #   #  #
+#      # ###  #
+#      # #### #
+#        #### #
+#      # #### #
+#      #      #
+###############
+us: {11,7}
+them: {5,3}
+updated 27535 times before timeout
+Move	Visits	Estimated
+{11,6}	 27535	1.86239
+###############
+#      #      #
+# ###  #      #
+# ####T       #
+# ##   #      #
+# #### #      #
+# #### #   U  #
+### ###########
+#      #   #  #
+#      # ###  #
+#      # #### #
+#        #### #
+#      # #### #
+#      #      #
+###############
+us: {11,6}
+them: {6,3}
+updated 41295 times before timeout
+Move	Visits	Estimated
+{11,5}	 41097	1.96975
+{12,6}	    61	0.95082
+{10,6}	   137	1.10219
+###############
+#      #      #
+# ### T#      #
+# #####       #
+# ##   #      #
+# #### #   U  #
+# #### #   #  #
+### ###########
+#      #   #  #
+#      # ###  #
+#      # #### #
+#        #### #
+#      # #### #
+#      #      #
+###############
+us: {11,5}
+them: {6,2}
+updated 45752 times before timeout
+Move	Visits	Estimated
+{11,4}	   114	1.5614
+{12,5}	 45505	1.98372
+{10,5}	   133	1.59398
+###############
+#     T#      #
+# ### ##      #
+# #####       #
+# ##   #      #
+# #### #   #U #
+# #### #   #  #
+### ###########
+#      #   #  #
+#      # ###  #
+#      # #### #
+#        #### #
+#      # #### #
+#      #      #
+###############
+us: {12,5}
+them: {6,1}
+updated 52581 times before timeout
+Move	Visits	Estimated
+{12,4}	  3235	1.94065
+{13,5}	 10741	1.97524
+{12,6}	 38605	1.99655
+###############
+#    T##      #
+# ### ##      #
+# #####       #
+# ##   #      #
+# #### #   ## #
+# #### #   #U #
+### ###########
+#      #   #  #
+#      # ###  #
+#      # #### #
+#        #### #
+#      # #### #
+#      #      #
+###############
+us: {12,6}
+them: {5,1}
+updated 22663 times before timeout
+Move	Visits	Estimated
+{13,6}	 22663	1.99519
+
+
+player2 crashed:
+bot 2 QBattleBot failed: Time limit exceeded.
+------ QBattleBot stderr ------
+
+
+name              wins      losses    draws     nullwins  nulllosses
+Carlos            25        2         3         0         0         
+JacobTron         17        13        0         0         0         
+QBattleBot        16        10        4         0         0         
+TronLightCycleAI  16        14        0         0         0         
+PollosHermanos    7         16        7         0         0         
+Andertaker        0         26        4         0         0         
+board 'quadrant'  round 1
+  PollosHermanos Andertaker DRAW
+  PollosHermanos QBattleBot P2WIN
+  PollosHermanos Carlos P2WIN
+  PollosHermanos JacobTron P2WIN
+  PollosHermanos TronLightCycleAI P1WIN
+  Andertaker PollosHermanos DRAW
+  Andertaker QBattleBot P2WIN
+  Andertaker Carlos DRAW
+  Andertaker JacobTron P2WIN
+  Andertaker TronLightCycleAI P2WIN
+  QBattleBot PollosHermanos DRAW
+  QBattleBot Andertaker P1WIN
+  QBattleBot Carlos DRAW
+  QBattleBot JacobTron P2WIN
+  QBattleBot TronLightCycleAI P1WIN
+  Carlos PollosHermanos DRAW
+  Carlos Andertaker P1WIN
+  Carlos QBattleBot P1WIN
+  Carlos JacobTron P1WIN
+  Carlos TronLightCycleAI P1WIN
+  JacobTron PollosHermanos P1WIN
+  JacobTron Andertaker P1WIN
+  JacobTron QBattleBot P2WIN
+  JacobTron Carlos P2WIN
+  JacobTron TronLightCycleAI P2WIN
+  TronLightCycleAI PollosHermanos P1WIN
+  TronLightCycleAI Andertaker P1WIN
+  TronLightCycleAI QBattleBot P2WIN
+  TronLightCycleAI Carlos P2WIN
+  TronLightCycleAI JacobTron P1WIN
+board 'quadrant'  round 2
+  PollosHermanos Andertaker P1WIN
+  PollosHermanos QBattleBot DRAW
+  PollosHermanos Carlos P2WIN
+  PollosHermanos JacobTron P2WIN
+  PollosHermanos TronLightCycleAI P1WIN
+  Andertaker PollosHermanos P2WIN
+  Andertaker QBattleBot P2WIN
+  Andertaker Carlos P2WIN
+  Andertaker JacobTron P2WIN
+  Andertaker TronLightCycleAI P2WIN
+  QBattleBot PollosHermanos DRAW
+  QBattleBot Andertaker P1WIN
+  QBattleBot Carlos P2WIN
+  QBattleBot JacobTron P2WIN
+  QBattleBot TronLightCycleAI P1WIN
+  Carlos PollosHermanos P1WIN
+  Carlos Andertaker P1WIN
+  Carlos QBattleBot P1WIN
+  Carlos JacobTron P2WIN
+  Carlos TronLightCycleAI P1WIN
+  JacobTron PollosHermanos P1WIN
+  JacobTron Andertaker P1WIN
+  JacobTron QBattleBot P2WIN
+  JacobTron Carlos P1WIN
+  JacobTron TronLightCycleAI P2WIN
+  TronLightCycleAI PollosHermanos P1WIN
+  TronLightCycleAI Andertaker P1WIN
+  TronLightCycleAI QBattleBot P1WIN
+  TronLightCycleAI Carlos P2WIN
+  TronLightCycleAI JacobTron P1WIN
+board 'quadrant'  round 3
+  PollosHermanos Andertaker P1WIN
+  PollosHermanos QBattleBot P1WIN
+  PollosHermanos Carlos P2WIN
+  PollosHermanos JacobTron P2WIN
+  PollosHermanos TronLightCycleAI P1WIN
+  Andertaker PollosHermanos DRAW
+  Andertaker QBattleBot P2WIN
+  Andertaker Carlos P2WIN
+  Andertaker JacobTron P2WIN
+  Andertaker TronLightCycleAI P2WIN
+  QBattleBot PollosHermanos P1WIN
+  QBattleBot Andertaker P1WIN
+  QBattleBot Carlos P2WIN
+  QBattleBot JacobTron P2WIN
+  QBattleBot TronLightCycleAI P1WIN
+  Carlos PollosHermanos P1WIN
+  Carlos Andertaker P1WIN
+  Carlos QBattleBot P1WIN
+  Carlos JacobTron P1WIN
+  Carlos TronLightCycleAI P1WIN
+  JacobTron PollosHermanos P1WIN
+  JacobTron Andertaker P1WIN
+  JacobTron QBattleBot P2WIN
+  JacobTron Carlos P2WIN
+  JacobTron TronLightCycleAI P2WIN
+  TronLightCycleAI PollosHermanos P1WIN
+  TronLightCycleAI Andertaker P1WIN
+  TronLightCycleAI QBattleBot P2WIN
+  TronLightCycleAI Carlos P2WIN
+  TronLightCycleAI JacobTron P1WIN
